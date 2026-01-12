@@ -1,6 +1,7 @@
 {
   "name": "apprunner-static",
   "version": "1.0.0",
+  "description": "Test AppRunner static app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
